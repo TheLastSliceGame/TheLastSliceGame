@@ -1,0 +1,28 @@
+answer
+
+//block
+//win
+//random
+
+Cell bestPick = null;
+
+int i = 0;
+foreach(cell in cells)
+{
+	//Column win/block
+	if(cell.Column - 1 > 0 && cell.Column + 1 <= NumColumns)
+	{
+		//Win 
+		if(this == Cells[i, cell.Column - 1].Player &&
+		   Cells[i, cell.Column - 1].Player == Cells[i, cell.Column + 1].Player)
+	}	
+}
+
+OnCellPicked()
+{
+
+	int CellScoreMap[row, columns];
+	string DeliveryAddress = ?
+}
+
+// Maybe Use Swagger?
