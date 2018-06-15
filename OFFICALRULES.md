@@ -14,11 +14,11 @@ In these Rules, "Microsoft", "we", "our", and "us" refer to Sponsor and "you" an
 
 The Challenge consists of three (3) individual challenges in which winners will be determined based on a combination of random drawing and skill. The start/end dates and times of each individual challenge is as follows ("Entry Period"):
 
-Challenge #1 begins at 12:00 a.m. Greenwich Mean Time (GMT) on May 22, 2018 and ends at 11:59 p.m. GMT on June 17, 2018.
+Challenge #1 begins at 12:00 a.m. Greenwich Mean Time (GMT) on May 22, 2018 and ends at 11:59 p.m. GMT on July 17, 2018.
 
-Challenge #2 begins at 12:00 a.m. (GMT) on May 22, 2018 and ends at 11:59 p.m. GMT on June 17, 2018.
+Challenge #2 begins at 12:00 a.m. (GMT) on May 22, 2018 and ends at 11:59 p.m. GMT on July 17, 2018.
 
-Challenge #3 begins at 12:00 a.m. (GMT) on July 17, 2018 and ends as soon as five (5) competitors have completed the challenge or by 11:59 p.m. GMT on December 31, 2018, whichever comes first.
+Challenge #3 begins at 12:00 a.m. (GMT) on August 17, 2018 and ends as soon as five (5) competitors have completed the challenge or by 11:59 p.m. GMT on December 31, 2018, whichever comes first.
 
 All entrants are eligible to compete in Challenge #1 and #2. At the close of challenge #1 and #2, a subset of finalists that completed both Challenge #1 and #2 will be selected to advance to Challenge #3.
 
